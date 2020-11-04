@@ -1,7 +1,7 @@
 # DSCITB
 Eksplorasi Google Developer Products
 
-Hi, I'm Surya Harahap from Informatics Engineering at Universitas Sangga Buana YPKP Bandung, S1/2018.
+Hi, I'm Surya Harahap from Informatics Engineering , S1/2018.
 <p>
   Pada repository ini saya akan sedikit cerita tentang hasil Eksplorasi pada Produk Google yaitu khususny Flutter dan Firebase. <br>
 Flutter merupakan toolkit UI Google untuk membuat aplikasi yang keren, yang dapat dikompilasi secara native untuk seluler, web, dan dekstop dari baris kode tunggal. selain itu kita juga harus memiliki kemampuan bahasa pemograman Dart.<br>
